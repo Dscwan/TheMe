@@ -143,7 +143,7 @@
 
 ### 1) 아키텍처 구조
 
-<img src="https://velog.velcdn.com/images/aammaa/post/18e2d62b-4a69-4a0b-96b1-96a466ddbba0/image.png" width ="1000"/>
+![image](https://user-images.githubusercontent.com/76879122/209943280-ab4ae2a4-f284-43df-9a67-83529a7be016.png)
 
 <br />
 
